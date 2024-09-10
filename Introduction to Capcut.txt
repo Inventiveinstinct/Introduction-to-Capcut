@@ -1,0 +1,89 @@
+Introduction to CapCut
+
+What is CapCut?
+CapCut is a free video editing app available on both iOS and Android devices. It offers a range of editing tools and features that are ideal for creating professional-looking videos with ease.
+Key Features:
+•	Video trimming and cutting
+•	Adding text and stickers
+•	Applying filters and effects
+•	Adding music and sound effects
+•	Creating transitions between clips
+________________________________________
+2. Getting Started
+Installing CapCut:
+1.	Open the App Store (iOS) or Google Play Store (Android).
+2.	Search for "CapCut" and tap "Install."
+Creating a New Project:
+1.	Open the CapCut app.
+2.	Tap on the "New Project" button.
+3.	Select the videos or photos you want to include in your project and tap "Add."
+
+________________________________________
+3. Basic Editing Tools
+Trimming and Cutting:
+1.	Select the clip you want to edit.
+2.	Tap on the "Edit" button.
+3.	Use the trim handles to adjust the start and end points of your video.
+4.	Tap "Cut" to split your clip into segments.
+Adjusting Speed:
+1.	Select the clip.
+2.	Tap on the "Speed" option.
+3.	Adjust the speed slider to make the clip faster or slower.
+
+________________________________________
+4. Adding Text and Stickers
+Adding Text:
+1.	Tap on the "Text" button.
+2.	Choose a text style and enter your text.
+3.	Adjust the font, size, color, and position on the screen.
+Adding Stickers:
+1.	Tap on the "Stickers" button.
+2.	Browse or search for the sticker you want.
+3.	Drag and drop the sticker onto your video.
+________________________________________
+5. Applying Filters and Effects
+Using Filters:
+1.	Tap on the "Filters" button.
+2.	Choose a filter and adjust its intensity using the slider.
+3.	Apply the filter to your entire video or select specific clips.
+Adding Effects:
+1.	Tap on the "Effects" button.
+2.	Browse through the effects and select one to apply.
+3.	Adjust the effect settings as needed.
+Practice Question:
+1.	How can you adjust the intensity of a filter in CapCut?
+________________________________________
+6. Adding Music and Sound Effects
+Adding Music:
+1.	Tap on the "Music" button.
+2.	Choose from CapCut’s music library or upload your own.
+3.	Drag and drop the music onto your video timeline.
+Adding Sound Effects:
+1.	Tap on the "Sound Effects" button.
+2.	Browse and select a sound effect.
+3.	Add it to your video by dragging it to the desired position on the timeline.
+Practice Question:
+1.	How do you add music to your video in CapCut?
+________________________________________
+7. Creating Transitions
+Adding Transitions:
+1.	Tap on the clip where you want to add a transition.
+2.	Select the "Transitions" option.
+3.	Choose a transition style and adjust its duration.
+Practice Question:
+1.	What is the purpose of using transitions in a video?
+________________________________________
+8. Exporting Your Video
+Exporting Steps:
+1.	Tap on the "Export" button (usually represented by an upward arrow or a share icon).
+2.	Choose your desired video quality and resolution.
+3.	Tap "Export" to save the video to your device or share it directly to social media.
+Practice Question:
+1.	What are the steps to export a video from CapCut?
+________________________________________
+Conclusion
+Congratulations! You've just completed the basics of using CapCut. By mastering these fundamental tools, you'll be well on your way to creating polished and engaging videos. Practice with these tools and features to become more comfortable with the app.
+Practice Assignment:
+1.	Create a short video using CapCut, incorporating at least one clip trimming, text overlay, sticker, filter, and transition.
+2.	Share your video with a friend or family member and ask for feedback.
+
